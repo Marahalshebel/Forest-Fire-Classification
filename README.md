@@ -1,4 +1,5 @@
 # Forest Fire Classification
+Image classification model for detecting Fire, Smoke, and No Fire using Google Teachable Machine and TensorFlow.
 
 ## Overview
 This project demonstrates an image classification model developed using Google Teachable Machine.
