@@ -25,7 +25,7 @@ Forest-Fire-Classification/
 | [Task01_Forest_Fire_Classification.ipynb](Task01_Forest_Fire_Classification.ipynb) | Python notebook for loading the model and making predictions |
 | [keras_model.h5](keras_model.h5) | Trained image classification model |
 | [labels.txt](labels.txt) | Class labels |
-| [screenshot.png](screenshot.png) | Screenshot showing the prediction result |
+| [OutputScreenshot.jpg](OutputScreenshot.jpg) | Screenshot showing the prediction result |
 
 
 ## How to Run
@@ -61,7 +61,7 @@ Confidence Score: 98.5%
 ```
 
 The following screenshot shows the model predicting the class of a test image.
-![Prediction Output](screenshot.png)
+![Prediction Output](OutputScreenshot.jpg)
 
 
 
