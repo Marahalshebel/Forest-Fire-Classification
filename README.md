@@ -38,6 +38,12 @@ Forest-Fire-Classification/
 4. The notebook will display the predicted class and confidence score.
 
 
+## Google Colab
+
+You can open the notebook directly using the following link:
+[Open in Google Colab](https://colab.research.google.com/drive/1bkPj85uz9I8wp5VR2D4nDQkqIE7fgMDF?usp=sharing)
+
+
 ## Model Evaluation
 The model was evaluated using several test images that were not used during training.
 The model correctly classified most images into the three classes:
