@@ -27,7 +27,7 @@ Forest-Fire-Classification/
 | `labels.txt` | Class labels |
 | `screenshot.png` | Screenshot showing the prediction result |
 
----
+
 ## How to Run
 1. Open the notebook in Google Colab.
 2. Upload the following files:
@@ -37,7 +37,7 @@ Forest-Fire-Classification/
 3. Run all cells.
 4. The notebook will display the predicted class and confidence score.
 
----
+
 ## Model Evaluation
 The model was evaluated using several test images that were not used during training.
 The model correctly classified most images into the three classes:
@@ -47,7 +47,6 @@ The model correctly classified most images into the three classes:
 
 Some images with colors similar to fire, such as sunsets, were occasionally classified as Fire. This indicates that the model could be further improved by using a more diverse training dataset.
 
----
 ## Example Output
 
 ```
@@ -57,7 +56,7 @@ Confidence Score: 98.5%
 
 Replace this section with the screenshot of your output.
 
----
+
 
 ## Project Workflow
 
@@ -66,8 +65,7 @@ Replace this section with the screenshot of your output.
 3. Load the model in Python.
 4. Read an input image.
 5. Predict the image class and display the confidence score.
-6. 
----
+
 ## Future Improvements
 Possible improvements include:
 - Increase the number of training images.
