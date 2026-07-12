@@ -8,7 +8,6 @@ The model classifies forest images into three classes:
 - No Fire
 The trained model was exported in TensorFlow (Keras) format and used in Python to predict the class of an input image.
 
----
 ## Project Files
 ```
 Forest-Fire-Classification/
