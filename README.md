@@ -17,7 +17,7 @@ Forest-Fire-Classification/
 ├── Task01_Forest_Fire_Classification.ipynb
 ├── keras_model.h5
 ├── labels.txt
-├── screenshot.png
+├── OutputScreenshot.jpg
 └── README.md
 ```
 
