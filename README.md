@@ -22,10 +22,10 @@ Forest-Fire-Classification/
 
 | File | Description |
 |------|-------------|
-| `Task01_Forest_Fire_Classification.ipynb` | Python notebook for loading the model and making predictions |
-| `keras_model.h5` | Trained image classification model |
-| `labels.txt` | Class labels |
-| `screenshot.png` | Screenshot showing the prediction result |
+| [Task01_Forest_Fire_Classification.ipynb](Task01_Forest_Fire_Classification.ipynb) | Python notebook for loading the model and making predictions |
+| [keras_model.h5](keras_model.h5) | Trained image classification model |
+| [labels.txt](labels.txt) | Class labels |
+| [screenshot.png](screenshot.png) | Screenshot showing the prediction result |
 
 
 ## How to Run
