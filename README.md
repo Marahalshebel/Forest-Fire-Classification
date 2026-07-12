@@ -60,7 +60,8 @@ Predicted Class: Fire
 Confidence Score: 98.5%
 ```
 
-Replace this section with the screenshot of your output.
+The following screenshot shows the model predicting the class of a test image.
+![Prediction Output](screenshot.png)
 
 
 
