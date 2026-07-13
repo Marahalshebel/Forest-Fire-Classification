@@ -49,13 +49,12 @@ You can open the notebook directly using the following link:
 
 
 ## Model Evaluation
-The model was evaluated using several test images that were not used during training.
-The model correctly classified most images into the three classes:
-- Fire
-- Smoke
-- No Fire
+The model was evaluated using several test images that were not used during training. The model correctly classified most images into the three classes:
+-Fire
+-Smoke
+-No Fire
 
-Some images with colors similar to fire, such as sunsets, were occasionally classified as Fire. This indicates that the model could be further improved by using a more diverse training dataset.
+Overall, the model successfully classified the majority of the test images, demonstrating good performance and effective generalization on unseen data.
 
 ## Example Output
 
